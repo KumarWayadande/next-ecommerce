@@ -33,7 +33,7 @@ function CartModal() {
                 {/* BOTTOM */}
                 <div className="flex justify-between text-sm">
                   <span className="text-gray-500">Qty 2</span>
-                  <span className="text-blue-500">Remove</span>
+                  <span className="text-blue-500 cursor-pointer">Remove</span>
                 </div>
               </div>
             </div>
