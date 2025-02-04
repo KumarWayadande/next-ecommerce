@@ -38,6 +38,24 @@ function SinglePage() {
             dicta optio!
           </p>
         </div>
+        <div className="text-sm">
+          <h4 className="font-medium mb-4">Title</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
+            tenetur minus! Non, vitae. Itaque repellat inventore iusto? Sequi
+            quasi quas ipsa et officiis placeat? Corrupti ducimus sint fugit
+            dicta optio!
+          </p>
+        </div>
+        <div className="text-sm">
+          <h4 className="font-medium mb-4">Title</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
+            tenetur minus! Non, vitae. Itaque repellat inventore iusto? Sequi
+            quasi quas ipsa et officiis placeat? Corrupti ducimus sint fugit
+            dicta optio!
+          </p>
+        </div>
       </div>
     </div>
   );
