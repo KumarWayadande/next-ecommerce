@@ -33,7 +33,7 @@ function NavIcons() {
       />
       {isProfileOpen && (
         <div className="absolute z-50 p-4 rounded-md top-12 bg-white left-0 text-sm shadow-[0_3px_10px_rgb(0,0,0,0.2)]">
-          <Link href="/">Profile</Link>
+          <Link href="/" onClick={() => setIsProfileOpen(false)}>Profile</Link>
           <div className="mt-2 cursor-pointer">Logout</div>
         </div>
       )}
